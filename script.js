@@ -8,7 +8,11 @@ return i++
 }
 
 let cn = 2
+let i;
+
 while(i!= cn){
   console.log("currect number")
 }
 console.log("enter number id not a currect number")
+
+console.log("katappa")
